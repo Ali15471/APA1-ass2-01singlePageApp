@@ -3,7 +3,7 @@ html(lang="en")
   head
     meta(charset="UTF-8")
     meta(name="viewport" content="width=device-width, initial-scale=1.0")
-    title Recipe - #{recipe.name}
+    title Recipes
     link(rel="stylesheet", href="/styles.css")
 
   body
@@ -21,4 +21,19 @@ html(lang="en")
           h2 Instructions
           ol
             each instruction in recipe.instructions
+              li= instruction 
+    .container
+      h1= recipe.name1
+      
+      .recipe
+        section
+          h2 Ingredients
+          ul
+            each ingredient in recipe.ingredients1
+              li= ingredient
+
+        section
+          h2 Instructions
+          ol
+            each instruction in recipe.instructions1
               li= instruction

@@ -33,6 +33,27 @@ const recipe = {
     "Drop spoonfuls of dough onto ungreased baking sheets.",
     "Bake for 9 to 11 minutes or until golden brown.",
     "Let cool on baking sheet for 2 minutes, then transfer to wire racks."
+  ],
+  name1: "Apple Crumble",
+  ingredients1: [
+    "For the crumble:", 
+    "300g all-purpose flour",
+    "1 pinch salt",
+    "200g unsalted butter, softened",
+    "175g brown sugar",
+    "For the filling:",
+    "450g apples, peeled, cored and cut into 1cm pieces",
+    "50g brown sugar",
+    "1 tablespoon of all-purpose flour",
+    "1 pinch ground cinnamon"
+  ],
+  instructions1: [
+    "Preheat the oven to 180C/160C Fan/Gas 4.",
+    "Place the flour, salt and sugar in a large bowl and mix well. Taking a few cubes of butter at a time rub into the flour mixture. Keep rubbing until the mixture resembles breadcrumbs and all the butter is incorporated.",
+    "Place the fruit in a large bowl and sprinkle over the sugar, flour and cinnamon. Stir well, being careful not to break up the fruit.",
+    "Butter a 24cm/9in ovenproof dish. Spoon the fruit mixture into the bottom, then sprinkle the crumble mixture on top.",
+    "Bake for 40-45 minutes until the crumble is browned and the fruit mixture bubbling.",  
+    "Serve with thick cream or custard."  
   ]
 };
 
